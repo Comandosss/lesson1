@@ -10,5 +10,3 @@ print(my_dict)
 print(my_dict.get('country', 'Россия'))
 my_dict['date'] = '27.05.2019'
 print(len(my_dict))
-
-

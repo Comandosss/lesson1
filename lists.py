@@ -7,4 +7,3 @@ print(list_numbers[0])
 print(list_numbers[-1])
 print(list_numbers[2:5])
 list_numbers.remove('Python')
-
